@@ -1,0 +1,16 @@
+# macOS
+
+.DS_Store
+.Spotlight-V100
+
+# macOS / freedesktop.org
+
+.Trashes/
+
+# Windows
+
+Thumbs.db
+
+# Rust
+target/
+Cargo.lock
